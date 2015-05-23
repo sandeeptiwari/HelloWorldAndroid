@@ -1,0 +1,6 @@
+com.helloworld.BuildConfig
+com.helloworld.R
+com.helloworld.R$attr
+com.helloworld.R$drawable
+com.helloworld.R$layout
+com.helloworld.R$string

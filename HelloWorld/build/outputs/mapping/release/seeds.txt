@@ -1,0 +1,5 @@
+com.helloworld.HelloGradle
+com.helloworld.HelloGradle: HelloGradle()
+com.helloworld.R$drawable: int ic_launcher
+com.helloworld.R$layout: int main
+com.helloworld.R$string: int app_name
